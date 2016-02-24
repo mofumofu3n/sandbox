@@ -1,0 +1,4 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+gem 'logstash-input-jdbc', '~> 2.0.0'
